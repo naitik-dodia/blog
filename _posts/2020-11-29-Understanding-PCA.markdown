@@ -2,7 +2,7 @@
 layout: post
 title: Understanding PCA
 date: 2020-11-29 03:29:20 +0530
-description: One stop for everything on Principle Component Analysis. # Add post description (optional)
+description: One stop for everything on Principal Component Analysis. # Add post description (optional)
 img: pca.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Educational, notes]
